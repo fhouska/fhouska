@@ -1,4 +1,4 @@
-### Hi there 👋 
+# Hi there 👋 
 ### I´m Fabiana 👩‍💻
 
 I am passionate about data. I firmly believe that data can be powerful when communicated in a way that is friendly and understandable to everyone. As a lifelong learner, I am here to share my journey and my projects. If you have any questions or suggestions, please feel free to contact me.
