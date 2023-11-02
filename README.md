@@ -1,7 +1,7 @@
 # Hi there 👋 
 ### I´m Fabiana 👩‍💻
 
-I am passionate about data. I firmly believe that data can be powerful when communicated in a way that is friendly and understandable to everyone. As a lifelong learner, I am here to share my journey and my projects. If you have any questions or suggestions, please feel free to contact me.
+I´m passionate about data. I firmly believe that data can be powerful when communicated in a way that is friendly and understandable to everyone. As a lifelong learner, I am here to share my journey and my projects. If you have any questions or suggestions, please feel free to contact me.
 
 <!--
 **fhouska/fhouska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
