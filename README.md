@@ -1,4 +1,7 @@
+![portada Linkedin](https://github.com/fhouska/fhouska/assets/134630750/8b6093e8-ca41-488d-b2d0-019b7fb50c78)
+
 # Hi there 👋 
+
 ### I´m Fabiana 👩‍💻
 
 I´m passionate about data. I firmly believe that data can be powerful when communicated in a way that is friendly and understandable to everyone. As a lifelong learner, I am here to share my journey and my projects. If you have any questions or suggestions, please feel free to contact me.
